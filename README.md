@@ -1,2 +1,2 @@
-# Restaurant-Core-MVC2
+# Restaurant-Core-MVC
 
